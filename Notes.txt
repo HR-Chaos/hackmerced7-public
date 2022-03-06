@@ -1,0 +1,8 @@
+'''
+#incrementing characters
+
+for i in range(26):
+    x='a'
+    val=chr(ord(x) + i)
+    print(val)
+'''
